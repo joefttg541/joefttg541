@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe Fettig
-- 👀 I’m interested in Artificicial Intelligence  
+- 👀 I’m interested in Artificial Intelligence  
 - 🌱 I’m currently learning IBM Applied AI
 - 💞️ I’m looking to collaborate on I really don't know I am new to programming 
 - 📫 How to reach me I don't have facebook but I do have a Linkedin account
